@@ -24,3 +24,5 @@ pizzashop-web/*.sw?
 pizzashop-api/node_modules
 pizzashop-api/.env.local
 pizzashop-api/dist
+
+nano.39660.save
